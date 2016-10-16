@@ -1,3 +1,3 @@
 # QQ消息气泡
 
-<img src="./qqbezier/screenshot/qqbezier.gif" width = "240" height = "400"/>
+<img src="./QQBezier/screenshot/QQBezier.gif" width = "240" height = "400"/>
